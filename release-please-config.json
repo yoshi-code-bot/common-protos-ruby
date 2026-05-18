@@ -11,6 +11,10 @@
   "tag-separator": "/",
   "sequential-calls": true,
   "packages": {
+    "backstory": {
+      "component": "backstory",
+      "version_file": "lib/backstory/version.rb"
+    },
     "google-apps-card-v1": {
       "component": "google-apps-card-v1",
       "version_file": "lib/google/apps/card/v1/version.rb"

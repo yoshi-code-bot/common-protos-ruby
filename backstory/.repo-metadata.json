@@ -1,0 +1,8 @@
+{
+  "client_documentation": "https://googleapis.dev/ruby/backstory/latest",
+  "distribution-name": "backstory",
+  "language": "ruby",
+  "library_type": "OTHER",
+  "release_level": "stable",
+  "repo": "googleapis/common-protos-ruby"
+}
