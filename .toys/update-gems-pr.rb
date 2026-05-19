@@ -65,6 +65,7 @@ def make_one_change gem_name
                              remote: git_remote,
                              branch_name: branch_name,
                              commit_message: commit_message do
+    # The "compile" task is defined in the shared template under shared/toys-common.rb
     exec_separate_tool ["compile"]
   end
 end
